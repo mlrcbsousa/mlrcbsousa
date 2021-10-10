@@ -1,4 +1,4 @@
-
+<div allign="left">
 
 👨🏻‍💻 I’m currently working at [PaxFamilia](https://www.paxfamilia.com/)
 
@@ -14,8 +14,12 @@
 
 👨‍🍳 I used to be a Chef
 
+</div>
 
-<img id="langs"
-  alt="Most Used Languages"
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=mlrcbsousa&custom_title=Languages&include_all_commits=true&count_private=true&hide_border=true&title_color=32959C&icon_color=1CCAD8&text_color=111111&bg_color=none"
-  width="280" />
+
+<div allign="right">
+  <img
+    alt="Most Used Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mlrcbsousa&custom_title=Languages&include_all_commits=true&count_private=true&hide_border=true&title_color=32959C&icon_color=1CCAD8&text_color=111111&bg_color=none"
+    width="280" />
+</div>
