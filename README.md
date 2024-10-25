@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📈 Polyglot Senior Software Engineer
+- 📈 I'm a Polyglot Senior Software Engineer
   - C, C++, TypeScript, Python, Rust, Ruby
   - Vue 3, GraphQL, gRPC, AWS
 - 👨🏻‍💻 I’m currently working at [Keyrock](https://www.keyrock.eu/)
